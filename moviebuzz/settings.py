@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h*%445znj%lhjkly6uh5u^7&en-_w_y9zp7kg6fw1leq)^%cc4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nabbi-moviebuzz.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['naveen-movie-watchlist.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
